@@ -1,4 +1,12 @@
+
+
+
+
 <!-- # ⭕ Tic-Tac-Toe -->
+
+Deployed for my ALEO application.
+
+Discord: gc3al
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
